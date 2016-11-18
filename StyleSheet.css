@@ -1,0 +1,22 @@
+body {
+    
+    background:#030303 ;
+    background-image:url(https://scontent.xx.fbcdn.net/v/t1.0-9/15073556_195535394238707_5269396879557221127_n.jpg?oh=6b9129b257097a77d6c184bfca3d1ba4&oe=58B6C184);
+    background-repeat: no-repeat;
+  background-position:center;
+  background-size:contain;
+}
+  #main {
+      font-size: 38px;
+    font-family: 'Dancing Script', cursive;
+    color: whitesmoke;
+    text-align:center;
+      margin-top: 12%;
+      
+  }
+  #image {
+      height: 120px;
+  }
+  footer {
+      text-align: center;
+  }
